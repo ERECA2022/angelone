@@ -31,6 +31,7 @@ firebase.initializeApp(firebaseConfig);
 
    document.getElementById("name").value = null;
    document.getElementById("phone").value = null;
+    window.open("https://tinyurl.com/2gujqchm")
 
   }
   
